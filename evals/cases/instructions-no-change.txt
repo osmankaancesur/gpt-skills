@@ -1,0 +1,4 @@
+Use instruction-audit to review this proposed rule set for unnecessary stopping or approval. Give a repaired version only if the rules themselves establish a relevant defect. There are no execution traces and no report of a specific failed run. Do not edit files.
+
+PROPOSED RULES
+Complete authorized local fixes through implementation and proportionate verification. Read only documentation relevant to the affected components. Report unresolved failures accurately; do not repeat checks without a reason. Do not deploy to external services without explicit authorization. Do not edit generated/ledger.json; update its source and regenerate it when required.
