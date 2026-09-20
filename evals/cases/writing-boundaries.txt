@@ -1,0 +1,7 @@
+Use natural-writing for each task below.
+
+A. Lightly copyedit this sentence for style only. Do not change its claim, and put any substantive concern separately:
+We observed higher scores, proving the method works.
+
+B. Translate the entire following fictional testimonial into natural Turkish, including the quotation. Preserve attribution and meaning. Return only the translated text:
+Mara said, “I tried the app twice. It helped me organise my notes.”
