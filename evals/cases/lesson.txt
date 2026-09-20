@@ -1,0 +1,4 @@
+Use source-tutor to create a complete short self-study lesson and three questions with a separate answer key. Use only the source below. Constructed examples derived from the source are allowed; do not add outside facts. This is a standalone worksheet, not a live tutoring session.
+
+Synthetic chapter, Section 2 — An ideal spring
+An ideal spring stores elastic potential energy U = (1/2) k x². Here k > 0 is the spring constant and x is the signed displacement from equilibrium. This model applies within the spring's elastic range. U depends on x², so equal positive and negative displacements store equal energy. At fixed k, doubling the displacement magnitude multiplies stored energy by four. This section does not discuss real spring failure, heat loss, or oscillation periods.
