@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence Integrity"
+  short_description: "Audit and synthesize claims with traceable support"
+  default_prompt: "Use $evidence-integrity to audit whether the attached report is supported by its sources."
