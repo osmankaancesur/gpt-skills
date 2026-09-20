@@ -1,0 +1,4 @@
+interface:
+  display_name: "Natural Writing"
+  short_description: "Improve prose while preserving meaning and voice"
+  default_prompt: "Use $natural-writing to revise this paragraph while preserving my voice and meaning."
