@@ -1,6 +1,6 @@
 # Collection audit and staging validation
 
-20 September 2026. Status: first versions staged and checked; not installed or publicly released.
+20 September 2026. Status: first versions staged and checked, then imported into the public repository. Publication does not change the limited scope of the validation below.
 
 ## Completed checks
 
@@ -50,6 +50,6 @@ The independent architectural reviewer recommended keeping all four and adding n
 
 No unassisted baseline, repeated-run comparison, actual automatic-routing test, or human language review was performed. Passing these small synthetic cases does not establish general reliability, specialist referee competence, or a causal benefit from the skills. Evidence-integrity is explicitly not a formal proof verifier; source-tutor has no persistent learner memory; natural-writing has only English/Turkish modules; instruction-audit cannot diagnose unseen controlling rules.
 
-Before a public release, select a license and confirm rights to adapt the supplied reference. Run representative comparisons and competent language review before making strong quality or language-support claims. Those are publication decisions and broader evaluation work, not reasons to install or publish an unrequested repository now.
+The public repository uses the MIT License. Representative comparisons and competent language review are still needed before making strong quality or language-support claims.
 
-The Git bundle preserves the staged files and local history. It is a portable staging deliverable; it does not represent a remote push, deployment or skill installation.
+The Git bundle remains the original portable staging deliverable. Its contents were subsequently imported into the public repository; publication does not imply skill installation or deployment.
