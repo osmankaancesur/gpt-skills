@@ -1,0 +1,4 @@
+Use source-tutor to teach this source briefly and then ask me one question to check my understanding. Wait for my answer before giving the solution.
+
+Synthetic source, Section 1
+For this ideal model, energy E = c z² with c > 0 held constant. Replacing z with -z leaves E unchanged. Doubling the magnitude of z multiplies E by four. These statements are restricted to this model.
