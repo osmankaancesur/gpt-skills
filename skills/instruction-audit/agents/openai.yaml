@@ -1,0 +1,4 @@
+interface:
+  display_name: "Instruction Audit"
+  short_description: "Find rules that cause unintended agent behavior"
+  default_prompt: "Use $instruction-audit to identify why these agent instructions cause premature stopping."
