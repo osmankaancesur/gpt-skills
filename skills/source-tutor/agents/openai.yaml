@@ -1,0 +1,4 @@
+interface:
+  display_name: "Source Tutor"
+  short_description: "Teach and assess using a designated source"
+  default_prompt: "Use $source-tutor to teach this chapter and test my understanding using only its contents."
