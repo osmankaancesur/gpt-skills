@@ -2,11 +2,13 @@
 
 Design and staging proposal · 20 September 2026
 
+> Historical design record: this document was written before the initial public repository import. The architecture and evaluation notes are retained as the rationale for the first release.
+
 ## Recommendation
 
 Start with four skills: **evidence-integrity**, **source-tutor**, **instruction-audit**, and a revised **natural-writing**. Their respective responsibilities are evidence, learning, instruction behavior, and prose. Organize around operations that preserve an important invariant, rather than subjects such as science, research, or coding.
 
-The proposed first versions are staging drafts, not installed skills or a published release. The supplied `natural writing.md` remains unchanged. This document records the architecture decision before the revised copy is created.
+The proposed first versions were originally prepared as staging drafts before the initial public repository import. The supplied `natural writing.md` remains unchanged. This document records the architecture decision before the revised copy is created.
 
 The design applies `astra-best-practices`: narrow activation, contextual loading, explicit completion boundaries, proportional verification, and removal of instructions a capable model can already infer. The resulting skills are model-independent; they do not depend on a particular model's age, limits, tool names, or supposed weaknesses.
 
@@ -194,7 +196,7 @@ gpt-skills/
     observed-2026-09-20.md
 ```
 
-`agents/openai.yaml` is optional Codex UI metadata, not a second instruction source. Other hosts can use the skill and references without it. Runtime entrypoints must not require the design document, evaluation corpus, other skills, or an unavailable connector. No scripts/assets are justified by these four workflows yet. Add a license before public distribution; do not assume rights over the supplied reference or a preferred license. Do not embed private source material in the public evaluation corpus.
+`agents/openai.yaml` is optional Codex UI metadata, not a second instruction source. Other hosts can use the skill and references without it. Runtime entrypoints must not require the design document, evaluation corpus, other skills, or an unavailable connector. No scripts/assets are justified by these four workflows yet. The public repository uses the MIT License. The staged natural-writing rewrite was derived from user-supplied source material under the repository owner's control. Do not embed private source material in the public evaluation corpus.
 
 ## 7. Audit and acceptance
 
@@ -204,4 +206,4 @@ Compare against unassisted baselines before claiming improved model performance.
 
 The completed audit, measured file sizes, execution results, and remaining limits are recorded in `validation.md`. Independent design review recommended retaining all four skills. It identified and prompted repairs to an English example that implied unauthorized claim deletion, quotation handling during authorized translation, and instruction-audit's missing no-change outcome. Description-only selection found one unintended activation for ordinary prompt creation; the description now excludes it.
 
-Seven independent behavioral executions covered the four skills and their repaired boundaries. Their outputs met the specified staging invariants. Initial description selection agreed with 19 of 20 cases; after the exclusion was tightened, the failed case and three neighboring cases selected the intended workflows. This is a limited selection exercise, not a host-router benchmark or evidence of superiority to the base model. The source file remained byte-for-byte unchanged. No skills were installed and no public repository was published.
+Seven independent behavioral executions covered the four skills and their repaired boundaries. Their outputs met the specified staging invariants. Initial description selection agreed with 19 of 20 cases; after the exclusion was tightened, the failed case and three neighboring cases selected the intended workflows. This is a limited selection exercise, not a host-router benchmark or evidence of superiority to the base model. The source file remained byte-for-byte unchanged. At the time of this design audit, no skills had been installed and the public repository had not yet been created.
