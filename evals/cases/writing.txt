@@ -1,0 +1,10 @@
+Use natural-writing for the following independent writing tasks. Return each requested result.
+
+A. Bu paragrafı hafifçe düzenle. Doğal kalsın; kurumsal bir dile çevirme. Anlamı ve bakış açımı koru:
+Toplantıya ben katıldım; Ece katılmadı. Rapor tamamlanmış ama ben daha görmedim. Açıkçası biraz beklemek istiyorum. Sonuçta daha görmediğim bir rapor hakkında konuşmak istemiyorum.
+
+B. Lightly copyedit this passage, keeping British spelling and the cautious claim. Do not change the quotation:
+The centre's report suggests an association, not a causal effect. “We cannot establish causality,” the authors wrote. I didn't expect much. Still don't.
+
+C. Turn these notes into a short first-person application paragraph, in plain English. Use only the notes:
+I am a student. I built a simple science website. It includes a black-hole simulation and a display of shapes from 0D to 10D. I want to improve the explanations. I have no other biographical details to add.
