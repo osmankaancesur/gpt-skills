@@ -1,0 +1,84 @@
+{
+  "captured_at": "2026-10-08",
+  "source": "Previously reviewed Drive research artifacts",
+  "original_source_files_modified": false,
+  "records": [
+    {
+      "file": "AUDIT.md",
+      "project": "AI Skills & Workflows",
+      "source_sha256": "7723877080fd096906bc5880cf2274a232fc30ebb5a93e262f073cea75d0551e",
+      "source_bytes": 19001,
+      "status": "ARTIFACT_ADDED",
+      "paths": [
+        "archive/drive-import-2026-10-08/AUDIT.md"
+      ],
+      "note": "Original file bytes preserved; active implementation and frozen inputs retained."
+    },
+    {
+      "file": "CHANGELOG.md",
+      "project": "AI Skills & Workflows",
+      "source_sha256": "d7da318c1023e2abaeb4f53923e2e2cda1127652cc5d035f0266d9bbf6ae7415",
+      "source_bytes": 3352,
+      "status": "ARTIFACT_ADDED",
+      "paths": [
+        "archive/drive-import-2026-10-08/CHANGELOG.md"
+      ],
+      "note": "Original file bytes preserved; active implementation and frozen inputs retained."
+    },
+    {
+      "file": "RESEARCH.md",
+      "project": "AI Skills & Workflows",
+      "source_sha256": "e5dfb67c7f8b620a7db64b2833c4633af2d47cda23bb3e6d4afe0753d802a9db",
+      "source_bytes": 16952,
+      "status": "ARTIFACT_ADDED",
+      "paths": [
+        "archive/drive-import-2026-10-08/RESEARCH.md"
+      ],
+      "note": "Original file bytes preserved; active implementation and frozen inputs retained."
+    },
+    {
+      "file": "SKILL.md",
+      "project": "AI Skills & Workflows",
+      "source_sha256": "ae358dce5955f23c8290512139363082474d574857879aafc77d8365f86c0925",
+      "source_bytes": 15073,
+      "status": "ARTIFACT_ADDED",
+      "paths": [
+        "archive/drive-import-2026-10-08/SKILL.md"
+      ],
+      "note": "Original file bytes preserved; active implementation and frozen inputs retained."
+    },
+    {
+      "file": "SKILL__variant_41c6f0cb.md",
+      "project": "AI Skills & Workflows",
+      "source_sha256": "41c6f0cbf5a9d0ba3103f33705a9e0600fc3c546fdd1b24b923a8a1ca9f08181",
+      "source_bytes": 10764,
+      "status": "ARTIFACT_ADDED",
+      "paths": [
+        "archive/drive-import-2026-10-08/SKILL__variant_41c6f0cb.md"
+      ],
+      "note": "Original file bytes preserved; active implementation and frozen inputs retained."
+    },
+    {
+      "file": "TESTS.md",
+      "project": "AI Skills & Workflows",
+      "source_sha256": "cddd7404366e34e869bd27db9d20098260cb89c490512757063bd5c25810b38b",
+      "source_bytes": 28741,
+      "status": "ARTIFACT_ADDED",
+      "paths": [
+        "archive/drive-import-2026-10-08/TESTS.md"
+      ],
+      "note": "Original file bytes preserved; active implementation and frozen inputs retained."
+    },
+    {
+      "file": "gpt-skills-design.md",
+      "project": "AI Skills & Workflows",
+      "source_sha256": "48c9984cb113b84578c023593ae25d51c4521979daa1ead48bd0f490042a771a",
+      "source_bytes": 26802,
+      "status": "ARTIFACT_ADDED",
+      "paths": [
+        "archive/drive-import-2026-10-08/gpt-skills-design.md"
+      ],
+      "note": "Original file bytes preserved; active implementation and frozen inputs retained."
+    }
+  ]
+}
